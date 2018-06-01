@@ -1,0 +1,13 @@
+#Calcular la cantidad de horas de sueño
+
+##Problematica
+Una persona duerme una jornada, en un formato de 24 horas, debemos calcular la cantidad de horas de sueño.
+
+##Pseudocodigo
+Inicio
+ Leer y guardar hora_de_inicio
+ Leer y guardar hora_de_fin
+
+ Imprimir en pantalla (hora_de_inicio - hora_de_fin)
+
+ Fin
